@@ -4,8 +4,8 @@
 
 ## 专栏
 
-* [掘金主页](https://juejin.cn/user/747323636587997/posts)  2020年~至今,主要发布JavaScript系列文章
-* [segmentfault主页](https://segmentfault.com/u/mataotao/articles?sort=vote) 2018年~2020年,主要发布前端基础知识汇总,截至2021-04-22共69篇文章,获赞537次,1476声望
+* [掘金主页](https://juejin.cn/user/747323636587997/posts)  2020年~至今。主要发布JavaScript系列文章
+* [segmentfault主页](https://segmentfault.com/u/mataotao/articles?sort=vote) 2018年~2020年。主要发布前端入门知识。截至2021-04-22共69篇文章，获赞537次，获得1476声望
 
 ## JavaScript闭包系列目录
 
