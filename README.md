@@ -4,8 +4,8 @@
 
 ## 专栏
 
-* [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)  2020年~至今,主要发布JavaScript系列文章
-* [segmentfault主页](https://segmentfault.com/u/yayu/articles) 2018年~2020年,主要发布前端基础知识汇总,截至2021-04-22共69篇文章,获赞537次,1476声望
+* [掘金主页](https://juejin.cn/user/747323636587997/posts)  2020年~至今,主要发布JavaScript系列文章
+* [segmentfault主页](https://segmentfault.com/u/mataotao/articles?sort=vote) 2018年~2020年,主要发布前端基础知识汇总,截至2021-04-22共69篇文章,获赞537次,1476声望
 
 ## JavaScript闭包系列目录
 
@@ -20,8 +20,9 @@
 
 1. [JavaScript面向对象系列之基础概念总结](https://juejin.cn/post/6943593611355226142/)
 1. [JavaScript面向对象系列之剖析原型链机制、手写new与Object.create](https://juejin.cn/post/6946962335860785160/)
-1. [JavaScript面向对象系列之深入原型链理解函数充当的多种角色](https://juejin.cn/post/6947353089355546637/)
-1. [JavaScript面向对象系列之call/apply和bind的应用、原理以及手写实现](https://juejin.cn/post/6949723248451928094/)
+1. [JavaScript面向对象系列之深入原型链理解函数充当的多种角色](https://juejin.cn/post/6947229348604674061)
+1. [JavaScript面向对象系列之关于 ES6 class 的细节](https://juejin.cn/post/6947353089355546637)
+1. [JavaScript面向对象系列之call/apply和bind的应用、原理以及手写实现](https://juejin.cn/post/6949723248451928094)
 1. [JavaScript面向对象系列之对象的深浅拷贝](https://juejin.cn/post/6953649370910687268/)
 1. [JavaScript面向对象系列之继承的多种方式](https://juejin.cn/post/6953885775096184840/)
 
