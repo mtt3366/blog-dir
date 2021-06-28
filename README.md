@@ -16,6 +16,13 @@
 4. [JavaScript闭包系列之闭包进阶应用—惰性思想、函数柯里化、组合函数](https://juejin.cn/post/6934295655397457934/)
 5. [JavaScript闭包系列之闭包进阶应用—手撕防抖、节流](https://juejin.cn/post/6935767970652094477/)
 
+## JavaScript异步编程系列
+1. [JS异步编程：Promise使用方法梳理](https://juejin.cn/post/6954264984830345252)
+2. [JS异步编程：事件队列和事件循环机制](https://juejin.cn/post/6975903958451617799)
+3. [JS异步编程：Promise深入使用、async/await使用](https://juejin.cn/post/6976662408295088158)
+4. [JS异步编程：几个想不到的异步代码执行结果](https://juejin.cn/post/6976662957224624136)
+5. [JS异步编程：手写Promise](https://juejin.cn/post/6977270541631619108)
+6. [JS异步编程：Iterator迭代器原理、Generator函数与async/await原理](https://juejin.cn/post/6978766285324681253)
 ## JavaScript面向对象系列目录
 
 1. [JavaScript面向对象系列之基础概念总结](https://juejin.cn/post/6943593611355226142/)
@@ -36,6 +43,9 @@
 6. [JavasSript基础之四大常用数据类型检测方法和底层机制](https://juejin.cn/post/6950899825168613389/)
 7. [JavasSript基础之依据jQuery源码封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558/)
 
+## 性能优化系列
+1. [浏览器渲染过程和CRP优化一：渲染过程](https://juejin.cn/post/6975028927223824391)
+2. [浏览器渲染过程和CRP优化二：CRP优化](https://juejin.cn/post/6975093992232845342)
 ## 组件与插件封装系列目录
 
 ## 源码系列目录
