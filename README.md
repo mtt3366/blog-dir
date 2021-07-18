@@ -33,6 +33,7 @@
 1. [JavaScript面向对象系列之对象的深浅拷贝](https://juejin.cn/post/6953649370910687268/)
 1. [JavaScript面向对象系列之继承的多种方式](https://juejin.cn/post/6953885775096184840/)
 
+
 ## JavasSript基础系列
 
 1. [JavasSript基础之数据类型与typeof](https://juejin.cn/post/6880749980311617549)
@@ -43,9 +44,17 @@
 6. [JavasSript基础之四大常用数据类型检测方法和底层机制](https://juejin.cn/post/6950899825168613389/)
 7. [JavasSript基础之依据jQuery源码封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558/)
 
+## HTTP系列
+1. [HTTP系列：AJAX基础梳理、axios基本使用梳理](https://juejin.cn/post/6985823318070788110)
+1. [HTTP系列：HTTP过程及网络层的前端性能优化](https://juejin.cn/post/6986268029055139847)
+
 ## 性能优化系列
+
+1. [JS中常见的设计模式](https://juejin.cn/post/6985939863203741703)
 1. [浏览器渲染过程和CRP优化一：渲染过程](https://juejin.cn/post/6975028927223824391)
-2. [浏览器渲染过程和CRP优化二：CRP优化](https://juejin.cn/post/6975093992232845342)
+1. [浏览器渲染过程和CRP优化二：CRP优化](https://juejin.cn/post/6975093992232845342)
+1. [HTTP系列：HTTP过程及网络层的前端性能优化](https://juejin.cn/post/6986268029055139847)
+
 ## 组件与插件封装系列
 
 ## 源码系列
