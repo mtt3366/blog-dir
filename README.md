@@ -56,7 +56,10 @@
 1. [HTTP系列：HTTP过程及网络层的前端性能优化](https://juejin.cn/post/6986268029055139847)
 
 ## 组件与插件封装系列
-
+1. [插件组件封装系列：ModalPlugin插件封装](https://juejin.cn/post/6988941752556060686)
+2. [插件组件封装系列：tree插件封装](https://juejin.cn/post/6988105930248290318)
+3. [插件组件封装系列：图片懒加载的插件封装
+   ](https://juejin.cn/post/6988026736382312485)
 ## 源码系列
 
 1. [手写queryURLParams](https://juejin.cn/post/6949726811681112077/)
