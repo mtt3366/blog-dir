@@ -4,9 +4,14 @@
 
 ## 专栏
 
-* [掘金主页](https://juejin.cn/user/747323636587997/posts)  2020年~至今。主要发布JavaScript系列文章
+* [掘金主页](https://juejin.cn/user/747323636587997/posts)  2020年~至今。主要发布js和vue系列文章
 * [segmentfault主页](https://segmentfault.com/u/mataotao/articles?sort=vote) 2018年~2020年。主要发布前端入门知识。截至2021-04-22共69篇文章，获赞537次，获得1476声望
 
+## Vue系列
+1. [Vue系列：Vue2 响应式原理(手写简易MVVM)](https://juejin.cn/post/6990018362391265287)
+2. [Vue系列：虚拟DOM和diff算法](https://juejin.cn/post/6995204870114377741)
+3. [Vue系列：vue模板编译原理与vue组件的渲染、更新过程](https://juejin.cn/post/6995232345749979172)
+4. [Vue系列：Composition API 、ref/reactive/toRef/toRefs深入](https://juejin.cn/post/6996163301650464775)
 ## JavaScript函数与闭包系列
 
 1. [JavaScript闭包系列之理解函数的底层处理机制](https://juejin.cn/post/6882028982200434701/)
