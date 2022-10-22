@@ -8,10 +8,12 @@
 * [segmentfault主页](https://segmentfault.com/u/mataotao/articles?sort=vote) 2018年~2020年。主要发布前端入门知识。截至2021-04-22共69篇文章，获赞537次，获得1476声望
 
 ## Vue系列
-1. [Vue系列：Vue2 响应式原理(手写简易MVVM)](https://juejin.cn/post/6990018362391265287)
+1. [Vue系列：Vue2 响应式原理](https://juejin.cn/post/6990018362391265287)
 2. [Vue系列：虚拟DOM和diff算法](https://juejin.cn/post/6995204870114377741)
-3. [Vue系列：vue模板编译原理与vue组件的渲染、更新过程](https://juejin.cn/post/6995232345749979172)
-4. [Vue系列：Composition API 、ref/reactive/toRef/toRefs深入](https://juejin.cn/post/6996163301650464775)
+3. [Vue系列：vue模板的编译与vue组件的渲染、更新过程](https://juejin.cn/post/6995232345749979172)
+4. [Vue系列：Composition API 、ref/reactive/toRef/toRefs总结](https://juejin.cn/post/6996163301650464775)
+5. [参考element源码用vue写一个input的受控组件](https://juejin.cn/post/6945307209819488270/)
+
 ## JavaScript函数与闭包系列
 
 1. [JavaScript闭包系列之理解函数的底层处理机制](https://juejin.cn/post/6882028982200434701/)
@@ -47,7 +49,7 @@
 4. [JavasSript基础之变量提升](https://juejin.cn/post/6923441559686004750/)
 5. [JavasSript基础之数据类型转换规则总结](https://juejin.cn/post/6934288549592170503/)
 6. [JavasSript基础之四大常用数据类型检测方法和底层机制](https://juejin.cn/post/6950899825168613389/)
-7. [JavasSript基础之依据jQuery源码封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558/)
+7. [JavasSript基础之封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558/)
 
 ## HTTP系列
 1. [HTTP系列：AJAX基础梳理、axios基本使用梳理](https://juejin.cn/post/6985823318070788110)
@@ -61,14 +63,11 @@
 1. [HTTP系列：HTTP过程及网络层的前端性能优化](https://juejin.cn/post/6986268029055139847)
 
 ## 组件与插件封装系列
-1. [插件组件封装系列：ModalPlugin插件封装](https://juejin.cn/post/6988941752556060686)
-2. [插件组件封装系列：tree插件封装](https://juejin.cn/post/6988105930248290318)
-3. [插件组件封装系列：图片懒加载的插件封装
+1. [插件组件封装系列：tree插件封装](https://juejin.cn/post/6988105930248290318)
+2. [插件组件封装系列：图片懒加载的插件封装
    ](https://juejin.cn/post/6988026736382312485)
 ## 源码系列
 
 1. [手写queryURLParams](https://juejin.cn/post/6949726811681112077/)
 2. [参考element源码用vue写一个input的受控组件](https://juejin.cn/post/6945307209819488270/)
-3. [JavasSript基础之依据jQuery源码封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558)
-4. [jQuery源码阅读系列——不同环境导入与库名冲突的处理](https://juejin.cn/post/6951742246328745991)
-5. [jQuery源码阅读系列——核心结构分析&手写each/extend方法](https://juejin.cn/post/6952336763599716382)
+3. [JavasSript基础之封装检测数据类型的方法](https://juejin.cn/post/6950901721065324558)
