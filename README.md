@@ -11,8 +11,7 @@
 1. [Vue系列：Vue2 响应式原理](https://juejin.cn/post/6990018362391265287)
 2. [Vue系列：虚拟DOM和diff算法](https://juejin.cn/post/6995204870114377741)
 3. [Vue系列：vue模板的编译与vue组件的渲染、更新过程](https://juejin.cn/post/6995232345749979172)
-4. [Vue系列：Composition API 、ref/reactive/toRef/toRefs总结](https://juejin.cn/post/6996163301650464775)
-5. [参考element源码用vue写一个input的受控组件](https://juejin.cn/post/6945307209819488270/)
+4. [Vue系列：参考element源码用vue写一个input的受控组件](https://juejin.cn/post/6945307209819488270/)
 
 ## JavaScript函数与闭包系列
 
